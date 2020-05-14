@@ -1,0 +1,6 @@
+.color-picker {
+    display: flex;
+    width: 600px;
+    justify-content: space-evenly;
+    align-items: center;
+}

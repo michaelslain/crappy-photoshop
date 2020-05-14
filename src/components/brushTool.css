@@ -1,0 +1,16 @@
+.brush-tool {
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.brush-tool:hover {
+    background: #9a69bf;
+    color: white;
+}
